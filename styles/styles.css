@@ -1,0 +1,64 @@
+.section1 {
+  background-image: url("../assets/images/hero-section.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.section2 {
+  background-image: url("../assets/images/banner-light-green.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.section3 {
+  background-image: url("../assets/images/banner-green.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.section4 {
+  background-image: url("../assets/images/banner-mid-green.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.section5 {
+  background-image: url("../assets/images/banner-dark-green.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.section6 {
+  background-image: url("../assets/images/section-1.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.section7 {
+  background-image: url("../assets/images/section-2.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.section8 {
+  background-image: url("../assets/images/banner-light-green.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.img1 {
+  -webkit-border-radius: 50;
+  -moz-border-radius: 50;
+  -ms-border-radius: 50;
+  -o-border-radius: 50;
+  border-radius: 50px;
+  box-shadow: 10px 10px 5px #ccc;
+}
